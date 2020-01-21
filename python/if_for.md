@@ -20,7 +20,7 @@ else:
 
 ### 반복
 
-- while문을 이용한 반복문
+- while문을 이용한 반복문      ## 잘 안 쓰임
 
 ```python
 while n < 3:
