@@ -1,0 +1,20 @@
+#page {
+    text-align: center;
+    font-weight: bold;
+}
+
+.logo {
+    margin: 80px auto;
+}
+
+.menu_box {
+    display: inline-block;
+    margin: 60px 10px;
+}
+
+.menu {
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+    color: rgb(88,89,91);
+}
